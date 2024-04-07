@@ -7,3 +7,7 @@
     <img src="https://skillicons.dev/icons?i=git,unity,vscode,blender,github,ps,ai,lua,py,js,html,c,notion" />
   </a>
 </p>
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@brkyklndr/30-nites-of-code)  
+  ![@brkyklndr #30NitesOfCode](https://www.codedex.io/api/petStatus?user=brkyklndr)
